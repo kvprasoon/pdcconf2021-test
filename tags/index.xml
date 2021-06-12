@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Devfest Toulouse 2019</title>
-    <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/</link>
-    <description>Recent content in Tags on Devfest Toulouse 2019</description>
+    <title>Tags on PowerShell DevOps and Cloud Conference 2021</title>
+    <link>https://pfdcconf.com/tags/</link>
+    <description>Recent content in Tags on PowerShell DevOps and Cloud Conference 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://sandbox-devfesttoulouse.firebaseapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://pfdcconf.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
