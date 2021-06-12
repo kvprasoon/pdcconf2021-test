@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on PowerShell DevOps and Cloud Conference 2021</title>
+    <link>https://pfdcconf.com/</link>
+    <description>Recent content in Home on PowerShell DevOps and Cloud Conference 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://pfdcconf.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call For Paper</title>
+      <link>https://pfdcconf.com/blog/cfp/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/blog/cfp/</guid>
+      <description>DevFest Toulouse will take place on October 3rd, 2019 at Pierre Baudis congress center. Our fourth edition will gather 1000 attendees!
+While waiting for the D-day do not hesitate to propose a talk at DevFest Toulouse CFP. It is now open and this year it will be for 2 months only (from March the 25th to Mai the 25th.)
+Be aware that at mid terms, we will select our “early speakers”, so do not wait till the end!</description>
+    </item>
+    
+    <item>
+      <title>Get ready for DevFest Toulouse 2019!</title>
+      <link>https://pfdcconf.com/blog/get-ready-for-2019/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/blog/get-ready-for-2019/</guid>
+      <description>Today it is with great pleasure that we announce you that the 4th edition of DevFest Toulouse will take place October 3rd 2019 at the center of congress Pierre Baudis.
+As last year, the event will be right in the city center, in the Compans Cafarelli neighborhood. The center of congress Pierre Baudis is accessible by the subway, bus or even by car. This year we will have more space, more sponsors and more attendees</description>
+    </item>
+    
+    <item>
+      <title>[Contest] Find out when is the 2019 edition taking place</title>
+      <link>https://pfdcconf.com/blog/find-out-when-is-edition-2019-contest/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/blog/find-out-when-is-edition-2019-contest/</guid>
+      <description>Today we released the following tweet:
+📅 L&amp;#39;édition du DevFest Toulouse 2019 est en cours de préparation. Sois le premier à découvrir la date ! https://t.co/Yo5bR1VNAv?
+La première personne à trouver gagnera une surprise ! 🎁#DevFestToulouse pic.twitter.com/1EGfaJ80DE
+&amp;mdash; DevFest Toulouse (@DevFestToulouse) January 21, 2019  We created this contest to engage our community and it did not take long (around 20 minutes) until we got a winner 😱!
+Bravo à toutes les personnes qui ont décodées la date de la prochaine édition du #DevFestToulouse.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pfdcconf.com/speakers/corentin_wallez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/speakers/corentin_wallez/</guid>
+      <description>Graphics plumber @google
+Corentin is an engineer working on Chrome&amp;rsquo;s GPU team in Google Paris. He leads development of the WebGPU API and chairs the &amp;ldquo;GPU for the Web&amp;rdquo; W3C group.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pfdcconf.com/speakers/fs0c131y/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/speakers/fs0c131y/</guid>
+      <description>French security researcher. Worst nightmare of Oneplus, Wiko, UIDAI, Kimbho, Donald Daters and others. Not completely schizophrenic. Not related to USANetwork.  https://fs0c131y.com/</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pfdcconf.com/speakers/marie_viley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/speakers/marie_viley/</guid>
+      <description>Recruteuse chez Zenika, je me suis toujours intéressée à la communication non verbale et aux mécanismes d’influence et de prise de décision. Ce qui me motive, c’est de comprendre au mieux les gens et de pouvoir échanger avec eux. Fan des conférences TED et [#TRU] (https://www.linkhumans.fr/tru/) je suis constamment en veille sur le recrutement, le RGPD et les nouveautés tech. J’aime également le métal, la bière et Dikkenek ^^</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pfdcconf.com/speakers/steve_klabnik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/speakers/steve_klabnik/</guid>
+      <description>Steve is on the core team of Rust, leads the documentation team, and is an author of The Rust Programming Language. Klabnik is a frequent speaker at conferences and is a prolific open source contributor, previously working on projects such as Ruby and Ruby on Rails.</description>
+    </item>
+    
+    <item>
+      <title>Airbus</title>
+      <link>https://pfdcconf.com/sponsors/platinium/airbus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/platinium/airbus/</guid>
+      <description>Airbus is an international pioneer in the aerospace industry and a leader in designing, manufacturing and delivering aerospace products, services and solutions to customers on a global scale. We believe that it’s not just what we make, but how we make it that counts; promoting responsible, sustainable and inclusive business practices and acting with integrity. Our people work with passion and determination to make the world a more connected, safer and smarter place, on the ground, in the sky and in space.</description>
+    </item>
+    
+    <item>
+      <title>Alexia Audevart</title>
+      <link>https://pfdcconf.com/team/volunteers/alexia_audevart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/volunteers/alexia_audevart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altran</title>
+      <link>https://pfdcconf.com/sponsors/soutien/altran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/altran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APSIDE</title>
+      <link>https://pfdcconf.com/sponsors/gold/apside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/apside/</guid>
+      <description>APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l&amp;rsquo;écosystème IT sur leurs projets innovants. Tous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ &amp;hellip; Nous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d&amp;rsquo;architecture, produits complets, sujets porteurs et utiles&amp;hellip; C&amp;rsquo;est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.</description>
+    </item>
+    
+    <item>
+      <title>Aurélie Vache</title>
+      <link>https://pfdcconf.com/team/core/aurelie_vache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/aurelie_vache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AXILEO</title>
+      <link>https://pfdcconf.com/sponsors/gold/axileo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/axileo/</guid>
+      <description>AXILEO est spécialisée dans l&amp;rsquo;innovation et la transformation digitale des entreprises. La société se distingue par un management innovant, sur le modèle de l&amp;rsquo;entreprise libérée, où les salariés participent et définissent la stratégie de l&amp;rsquo;entreprise.</description>
+    </item>
+    
+    <item>
+      <title>Berger Levrault</title>
+      <link>https://pfdcconf.com/sponsors/gold/berger_levrault/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/berger_levrault/</guid>
+      <description>Berger-Levrault, éditeur de logiciel international et multisectoriel, accompagne les professionnels privés et publics à répondre aux exigences croissantes de performance dans leurs métiers et les citoyens dans leur vie quotidienne.
+Le Groupe adresse les secteurs suivants : Secteur public local; Social et médico-social; Sanitaire; Entreprises et industrie; Éducation.
+Pour l’ensemble de ses secteurs d’activité, Berger-Levrault a développé une gamme de logiciels et de services adaptée aux besoins spécifiques de chaque métier.</description>
+    </item>
+    
+    <item>
+      <title>Capgemini</title>
+      <link>https://pfdcconf.com/sponsors/platinium/capgemini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/platinium/capgemini/</guid>
+      <description>Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations.</description>
+    </item>
+    
+    <item>
+      <title>Cenareo</title>
+      <link>https://pfdcconf.com/sponsors/platinium/cenareo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/platinium/cenareo/</guid>
+      <description>Cenareo, previously CityMeo, is a real “French Tech” success story. Located in Labège within the IoT Valley, we develop a best-in-class digital signage CMS (SaaS mode) to create, manage and broadcast content on remote displays in real-time, from any PC, tablet or smartphone. Created by 4 engineers, Cenareo has experienced exponential growth and rapid development since its inception in 2012, posting triple-digit growth and now counting upwards of 30 employees. The company has ambitious targets and a Global outlook.</description>
+    </item>
+    
+    <item>
+      <title>Cirruseo part of Accenture</title>
+      <link>https://pfdcconf.com/sponsors/gold/cirruseo_part_of_accenture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/cirruseo_part_of_accenture/</guid>
+      <description>Créé en 2011, Cirruseo est l’un des principaux partenaires de Google Cloud en France et l’un des plus importants acteurs français spécialisés exclusivement dans les services Google Cloud. Cirruseo accompagne ses clients dans leur transformation numérique, de l’expérience collaborateur autour des solutions Chrome et G Suite, à celle des métiers avec les services de Google Cloud Platform. Les solutions digitales de Cirruseo sont mobiles, intègrent la Data et l’Analytics by design, et sont conçues pour et par le Cloud.</description>
+    </item>
+    
+    <item>
+      <title>CNES</title>
+      <link>https://pfdcconf.com/sponsors/soutien/cnes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/cnes/</guid>
+      <description>Le CNES propose aux pouvoirs publics la politique spatiale de la France et la met en oeuvre dans 5 grands domaines stratégiques : Ariane, les Sciences, l’Observation, les Télécommunications et la Défense.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://pfdcconf.com/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/code-of-conduct/</guid>
+      <description>1. Purpose A primary goal of GDG Toulouse is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). GDG Toulouse prides itself on being an open, respectful, and inclusive community. That means the jerky behavior isn’t allowed at GDG meetings.</description>
+    </item>
+    
+    <item>
+      <title>commit42</title>
+      <link>https://pfdcconf.com/sponsors/soutien/commit42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/commit42/</guid>
+      <description>Studio d&amp;rsquo;innovation web commit42 est spécialisé dans les technologies React, PHP, NodeJS, Magento et PWA.
+Nos projets peuvent varier de la maintenance d’une boutique en ligne à la réalisation d’applications métiers spécifiques dont des Web App PWA.</description>
+    </item>
+    
+    <item>
+      <title>Continental</title>
+      <link>https://pfdcconf.com/sponsors/gold/continental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/continental/</guid>
+      <description>Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. Founded in 1871, the technology company offers safe, efficient, intelligent, and affordable solutions for vehicles, machines, traffic and transportation. In 2018, Continental generated sales of €44.4 billion and currently employs around 245,000 people in 60 countries and markets.</description>
+    </item>
+    
+    <item>
+      <title>DECASOFT</title>
+      <link>https://pfdcconf.com/sponsors/soutien/decasoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/decasoft/</guid>
+      <description>Une société à taille humaine spécialisée en développement web et mobile implantée sur la ville lumière et la ville rose – Paris et Toulouse. Nous assurons l’évolution professionnelle de nos collaborateurs vers de nouvelles technologies afin de calibrer nos postes selon leurs envies. Pour casser la routine, retrouvez-nous au baby-foot et aux soirées afterwork. Nous pouvons par ailleurs vous garantir une ambiance dynamique et 100% conviviale.</description>
+    </item>
+    
+    <item>
+      <title>Didier Plaindoux</title>
+      <link>https://pfdcconf.com/team/volunteers/didier_plaindoux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/volunteers/didier_plaindoux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duchess FR</title>
+      <link>https://pfdcconf.com/sponsors/communautes/duchess-fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/communautes/duchess-fr/</guid>
+      <description>Find Duchess FR on https://www.duchess-france.org/</description>
+    </item>
+    
+    <item>
+      <title>Elastic</title>
+      <link>https://pfdcconf.com/sponsors/gold/elastic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/elastic/</guid>
+      <description>Nous sommes les créateurs de la suite Elastic: Elasticsearch, Kibana, Beats et Logstash. Recherchez, analysez et visualisez vos données da façon sécurisée et fiable.</description>
+    </item>
+    
+    <item>
+      <title>Elodie Lerare</title>
+      <link>https://pfdcconf.com/team/core/elodie_lerare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/elodie_lerare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emmanuel Vinas</title>
+      <link>https://pfdcconf.com/team/core/emmanuel_vinas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/emmanuel_vinas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epitech</title>
+      <link>https://pfdcconf.com/sponsors/soutien/epitech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/epitech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQs</title>
+      <link>https://pfdcconf.com/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/faq/</guid>
+      <description>General What is DevFest Toulouse? The DevFest, or &amp;ldquo;Developers Festival&amp;rdquo;, is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles. Throughout the day, renowned speakers will present a variety of topics: around mobile development, the web, data, connected objects, the cloud, DevOps, etc&amp;hellip; as well as good development practices. Pauses are used to engage in dialogue and deepen the topics presented.
+Software development is a very broad subject and our selection committee is committed to providing a varied and interesting program.</description>
+    </item>
+    
+    <item>
+      <title>GDG Toulouse</title>
+      <link>https://pfdcconf.com/sponsors/communautes/gdg-toulouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/communautes/gdg-toulouse/</guid>
+      <description>Find GDG Toulouse on https://www.gdgtoulouse.fr/</description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://pfdcconf.com/sponsors/gold/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/github/</guid>
+      <description>GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies.</description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://pfdcconf.com/sponsors/soutien/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groupe Pierre Fabre</title>
+      <link>https://pfdcconf.com/sponsors/gold/groupe_pierre_fabre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/groupe_pierre_fabre/</guid>
+      <description>Créé en 1962 par Pierre Fabre, pharmacien d’officine à Castres (Tarn), le Groupe Pierre Fabre est présent depuis plus de 50 ans sur un continuum d’activités allant des médicaments de prescription aux soins dermo-cosmétiques en passant par la santé grand public. 2ème laboratoire dermo-cosmétique mondial et 2ème groupe pharmaceutique privé français, Pierre Fabre emploie près de 11 000 collaborateurs, détient des filiales dans 47 pays et distribue ses produits dans plus de 130 pays.</description>
+    </item>
+    
+    <item>
+      <title>Hadrien Toma</title>
+      <link>https://pfdcconf.com/team/core/hadrien_thomas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/hadrien_thomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Igor Laborie</title>
+      <link>https://pfdcconf.com/team/core/igor_laborie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/igor_laborie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatique Banque Populaire</title>
+      <link>https://pfdcconf.com/sponsors/gold/informatique_banque_populaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/informatique_banque_populaire/</guid>
+      <description>Informatique Banque Populaire, filiale du groupe bancaire BPCE, assure le développement informatique du système d’information des Banques Populaires.</description>
+    </item>
+    
+    <item>
+      <title>Infotel</title>
+      <link>https://pfdcconf.com/sponsors/gold/infotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/infotel/</guid>
+      <description>Acteur européen de la transformation numérique des entreprises, le groupe Infotel est l’interlocuteur privilégié des directions Informatiques et Métiers de Grands Comptes depuis près de 40 ans. Infotel leur apporte son expertise reconnue dans la gestion et l’évolution de leur patrimoine informatique mais aussi le conseil auprès des métiers et services innovants intégrant les technologies digitales ainsi qu’une expertise Big Data et mobile. Infotel développe son savoir-faire dans les secteurs de la Banque, de l’Assurance, de la Retraite, de l’Industrie et des Transports en s’appuyant sur l’innovation et la R&amp;amp;D.</description>
+    </item>
+    
+    <item>
+      <title>Intuiface</title>
+      <link>https://pfdcconf.com/sponsors/startup/intuiface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/startup/intuiface/</guid>
+      <description>Intuiface is the world’s premier platform for creating, deploying, measuring and managing deeply interactive digital experiences without writing code. Over 1500 companies across 70+ countries are connecting people to place using interactive options such as touch, RFID/NFC, beacons, Web APIs, Internet of Things, and much more. For any industry – including retail, hospitality, real estate, tourism, education – and for any intent – from digital signs to self-service kiosks and assisted selling.</description>
+    </item>
+    
+    <item>
+      <title>Ippon</title>
+      <link>https://pfdcconf.com/sponsors/gold/ippon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/ippon/</guid>
+      <description>Ippon est un cabinet de conseil qui accélère les projets innovants de ses clients de la page blanche au Cloud. Nos équipes dans le monde accompagnent les organisations dans la transformation d&amp;rsquo;idées innovantes en solutions logicielles de haute qualité avec un focus particulier sur le Time To Market.</description>
+    </item>
+    
+    <item>
+      <title>Jean Martineau-Figuette</title>
+      <link>https://pfdcconf.com/team/cfp/euzebe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/cfp/euzebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JFrog</title>
+      <link>https://pfdcconf.com/sponsors/gold/jfrog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/jfrog/</guid>
+      <description>JFrog - The Liquid Software Company</description>
+    </item>
+    
+    <item>
+      <title>Julien Del Rio</title>
+      <link>https://pfdcconf.com/team/core/julien_del_rio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/julien_del_rio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julien Renaux</title>
+      <link>https://pfdcconf.com/team/core/julien_renaux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/julien_renaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Davin</title>
+      <link>https://pfdcconf.com/team/core/kevin_davin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/kevin_davin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liberty Rider</title>
+      <link>https://pfdcconf.com/sponsors/soutien/liberty_rider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/liberty_rider/</guid>
+      <description>Sauver des vies ! L&amp;rsquo;application Liberty Rider est pensée comme un guide sherpa, un carnet de route, un passeport. Elle permet au motard de gagner sa liberté en toute sérénité. Préparation, accompagnement, suivi, et plus que tout, protection. Nous mettons l’intelligence artificielle au service de l’utilisateur. Grâce à des algorithmes inédits, nous sommes capable d’appeler les secours en cas d’accident et d&amp;rsquo;émettre une alerte à l’approche d’un virage dangereux pour signaler un danger.</description>
+    </item>
+    
+    <item>
+      <title>Lionel Porcheron</title>
+      <link>https://pfdcconf.com/team/volunteers/lionel_porcheron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/volunteers/lionel_porcheron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyra Network</title>
+      <link>https://pfdcconf.com/sponsors/gold/lyra_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/lyra_network/</guid>
+      <description>LYRA NETWORK est née en 2001 de la rencontre entre des savoir-faire, la technologie et l’esprit visionnaire de ses fondateurs. Leader en France dans la sécurisation des paiements, Lyra Network offre des services à valeurs ajoutées pour le commerce de proximité et le paiement en ligne (PayZen®).
+Sa présence internationale, fait de cette société 100% Française, un acteur incontournable du marché de la monétique. Nos clients tels que les banques, les collectivités, les e-commerçants et le commerce de détail s’appuient sur nos outils pour connecter, sécuriser et gérer leurs données sensibles.</description>
+    </item>
+    
+    <item>
+      <title>Maxime Pawlak</title>
+      <link>https://pfdcconf.com/team/core/maxime_pawlak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/maxime_pawlak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michaël Pailloncy</title>
+      <link>https://pfdcconf.com/team/core/michael_pailloncy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/michael_pailloncy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MonkeyPatch</title>
+      <link>https://pfdcconf.com/sponsors/gold/monkeypatch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/monkeypatch/</guid>
+      <description>MonkeyPatch est avant tout une équipe constituée de développeurs ayant de solides bagages techniques et des références significatives dans les nouvelles technos et les architectures modernes.
+Avec au moins 5 ans d’expérience, chacun de nous souhaite rester au plus près du code et partager sa passion de l&amp;rsquo;informatique avec la communauté de développeurs et les équipes de nos clients. Experts en Web, Mobile, Cloud, DevOps et/ou BigData, nous intervenons en tant qu’architecte et développeur senior sur des stacks modernes pour aider nos clients à relever leurs challenges technologiques.</description>
+    </item>
+    
+    <item>
+      <title>Morning</title>
+      <link>https://pfdcconf.com/sponsors/soutien/morning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/morning/</guid>
+      <description>Au pied des Pyrénées, Morning et son équipe (ré)inventent les usages financiers. Dans un cadre authentique, l’équipe imagine et développe des solutions innovantes pour gérer son argent, disposer de moyens de paiement innovants et bénéficier de services sur-mesure.
+Aujourd’hui Morning c’est : Plus 150.000 comptes de paiement Morning Plus de 50 millions d’euros collectés sur les cagnottes Plus d’un million de transactions traitées avec succès !</description>
+    </item>
+    
+    <item>
+      <title>NEO-SOFT Groupe</title>
+      <link>https://pfdcconf.com/sponsors/gold/neo_soft_groupe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/neo_soft_groupe/</guid>
+      <description>Créé en 2005 à Rennes par son PDG actuel Soïg, le Groupe Néo-Soft est aujourd’hui reconnu pour l’expertise de ses 1 300 consultants et ses 16 implantations. Néo-Soft est une société de Conseil en Informatique et Technologies spécialisée dans 5 domaines :
+ Conseil &amp;amp; Gestion de projet Domaine applicatif Infrastructures &amp;amp; Réseaux Cybersécurité grâce notre filiale dédiée Cogital Data Intégrer Néo-Soft c&amp;rsquo;est la possibilité de développer son expertise dans une entreprise innovante et responsable où la proximité est une réalité.</description>
+    </item>
+    
+    <item>
+      <title>OneStock</title>
+      <link>https://pfdcconf.com/sponsors/startup/onestock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/startup/onestock/</guid>
+      <description>Basée en France et au Royaume-Uni, OneStock propose une suite logicielle omnicanale d’Order Management à destination des retailers souhaitant rendre agile la gestion de leurs commandes, offrir la meilleure expérience client et booster leurs ventes.</description>
+    </item>
+    
+    <item>
+      <title>OpenAirlines</title>
+      <link>https://pfdcconf.com/sponsors/startup/openairlines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/startup/openairlines/</guid>
+      <description>Partant du constat que chaque année près de 660 millions de tonnes de CO2 sont émises par les avions, soit plus de 20 000 kilos de CO2 par seconde, cette clean-tech a décidé d’agir en développant des solutions innovantes pour aider les compagnies aériennes à réduire leurs coûts et leur impact environnemental.
+Fruit de 7 ans de R&amp;amp;D, le logiciel d’éco-pilotage SkyBreathe® Fuel Efficiency sort sur le marché en 2013. S’appuyant sur des algorithmes de Big Data, d’Intelligence Artificielle et de Machine Learning, le logiciel analyse automatiquement les très nombreuses données disponibles dans les boites noires des avions afin d’évaluer l’efficacité énergétique des vols et émettre des recommandations permettant de réduire la consommation de carburant et les émissions de CO2 des avions.</description>
+    </item>
+    
+    <item>
+      <title>Programmez</title>
+      <link>https://pfdcconf.com/sponsors/media/programmez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/media/programmez/</guid>
+      <description>Find Programmez on https://www.programmez.com/</description>
+    </item>
+    
+    <item>
+      <title>Python Toulouse</title>
+      <link>https://pfdcconf.com/sponsors/communautes/python-toulouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/communautes/python-toulouse/</guid>
+      <description>Find Python Toulouse on https://www.meetup.com/Python-Toulouse/</description>
+    </item>
+    
+    <item>
+      <title>Rust Toulouse</title>
+      <link>https://pfdcconf.com/sponsors/communautes/rust-toulouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/communautes/rust-toulouse/</guid>
+      <description>Find Rust Toulouse on meetup</description>
+    </item>
+    
+    <item>
+      <title>Serge Boucher</title>
+      <link>https://pfdcconf.com/team/core/serge_boucher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/serge_boucher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SII</title>
+      <link>https://pfdcconf.com/sponsors/platinium/sii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/platinium/sii/</guid>
+      <description>After 40 years of sponsoring with corporations for their engineering needs, the SII Group finds itself at the forefront of innovation and digital transformation. It relies on teams of expert engineers and on methods at the cutting-edge of quality standards for its business centered on engineering consulting (information technology, electronics and telecommunications) and digital services (engineering and network information technology). With nine field offices in France, the Group has built close relationships with local firms and offers a wide spectrum of career opportunities.</description>
+    </item>
+    
+    <item>
+      <title>Simon Chemouil</title>
+      <link>https://pfdcconf.com/team/cfp/simon_chemouil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/cfp/simon_chemouil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMILE</title>
+      <link>https://pfdcconf.com/sponsors/gold/smile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/smile/</guid>
+      <description>Avec de l’audace et des beaux projets, ajoutez une pincée de culture visionnaire, une bonne dose d’innovation, saupoudrez le tout d’une expertise technique pluridisciplinaire et vous obtenez Smile, le leader européen de l’intégration et de l’infogérance de solutions open source.
+Agiles, open et engagés, chez Smile, nous adorons avoir un coup d’avance pour garder notre place sur le podium des acteurs majeurs du digital. Pour cela, nous avons développé 4 offres pour vous accompagner dans votre transformation numérique : Digital, Business App, Embedded &amp;amp; IoT et Infra.</description>
+    </item>
+    
+    <item>
+      <title>Squoring Technologies</title>
+      <link>https://pfdcconf.com/sponsors/soutien/squoring_technologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/squoring_technologies/</guid>
+      <description>Créé à Toulouse en 2010, Squoring Technologies s’est imposé comme le spécialiste des solutions de pilotage de la qualité et de la performance des développements logiciels. Son tableau de bord d’analyse décisionnelle « Squore for Software Analytics », collecte, analyse et agrège en indicateurs pertinents et exploitables l’ensemble des données produites pendant le cycle de vie de production des logiciels pour évaluer et optimiser la performance des projets, le respect des processus et la qualité des livrables.</description>
+    </item>
+    
+    <item>
+      <title>STACK LABS</title>
+      <link>https://pfdcconf.com/sponsors/platinium/stack_labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/platinium/stack_labs/</guid>
+      <description>The new generation tech company. We ❤️ code, and building powerful &amp;amp; secured cloud architectures. We invest in tech watch &amp;amp; work with companies like Google &amp;amp; Amazon as sponsors.</description>
+    </item>
+    
+    <item>
+      <title>Sycomore Technologies</title>
+      <link>https://pfdcconf.com/sponsors/gold/sycomore-technologie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/gold/sycomore-technologie/</guid>
+      <description>Sycomore-Technologies offers proprietary and custom software solutions.
+Our seasoned team is experienced in new generation technologies as cloud, microservices architectures as well as big data technologies to transform yours data into smart data.</description>
+    </item>
+    
+    <item>
+      <title>Thibault Ducret</title>
+      <link>https://pfdcconf.com/team/cfp/thibault_ducret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/cfp/thibault_ducret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toulouse Data Science</title>
+      <link>https://pfdcconf.com/sponsors/communautes/toulouse-data-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/communautes/toulouse-data-science/</guid>
+      <description>Find Toulouse Data Science on http://www.tlse-data-science.fr/</description>
+    </item>
+    
+    <item>
+      <title>Toulouse Devops</title>
+      <link>https://pfdcconf.com/sponsors/communautes/toulouse-devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/communautes/toulouse-devops/</guid>
+      <description>Find Toulouse Devops on http://toulousedevops.org/</description>
+    </item>
+    
+    <item>
+      <title>Toulouse JUG</title>
+      <link>https://pfdcconf.com/sponsors/communautes/toulouse-jug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/communautes/toulouse-jug/</guid>
+      <description>Find Toulouse JUG on https://www.toulousejug.org/</description>
+    </item>
+    
+    <item>
+      <title>Toulouse Métropole</title>
+      <link>https://pfdcconf.com/sponsors/platinium/toulouse_metropole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/platinium/toulouse_metropole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ToulouseJS</title>
+      <link>https://pfdcconf.com/sponsors/communautes/toulousejs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/communautes/toulousejs/</guid>
+      <description>Find ToulouseJS on https://twitter.com/ToulouseJS</description>
+    </item>
+    
+    <item>
+      <title>Vincent Ferries</title>
+      <link>https://pfdcconf.com/team/core/vincent_ferries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/team/core/vincent_ferries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeLoveDevs.com</title>
+      <link>https://pfdcconf.com/sponsors/soutien/welovedevs_com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/welovedevs_com/</guid>
+      <description>WeLoveDevs.com aide les développeurs à définir quelle entreprise leur permettra de s&amp;rsquo;épanouir. Nous pensons qu&amp;rsquo;un développeur devrait pouvoir trouver par lui-même une entreprise où il sera heureux. Aussi WeLoveDevs.com permet aux entreprises de proposer une vitrine sur la vie de leurs collaborateurs. Nos équipes les accompagnent dans le fait de produire du contenu authentique et transparent, qui donne envie d&amp;rsquo;être candidat.</description>
+    </item>
+    
+    <item>
+      <title>Étincelle Coworking</title>
+      <link>https://pfdcconf.com/sponsors/soutien/etincelle_coworking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfdcconf.com/sponsors/soutien/etincelle_coworking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
