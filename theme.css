@@ -1,7 +1,7 @@
 @charset "UTF-8";
 :root {
-    --primary: #007fff;
-    --primary-txt: #fff;
+    --primary: #edf0f3;
+    --primary-txt: rgb(20, 19, 19);
     --accent: grey;
     --accent-txt: #fff;
     --base: #fff;
@@ -761,7 +761,7 @@ a.social:focus, a.social:hover {
     padding: 1rem;
     padding: var(--space-4);
     color: #fff;
-    color: var(--primary-txt);
+    color: #013d7b;
     position: relative;
     overflow: hidden;
     text-align: center;
